@@ -1,16 +1,16 @@
 # property-DAP
 
 <h3> Overview </h3>
-The Property Data Analytics Platform (pDAP) is a currated data repo for property info/metrics from multiple data sources. <br/>
+The Property Data Analytics Platform (pDAP) repo contains a framework to build & maintain an advanced Real Estate data mart comprised of data ingested from GIS sources, government agencies, Realestate websites, and public records.
 
 <h3> What's the "Big Idea"? </h3>
-The "Idea" is to layer collections of Geographic Information [(GIS)](https://github.com/sshuair/awesome-gis) data with other public records (i.e. [county appraiser](https://downloads.hcpafl.org) ,or [clerk of court](https://www.hillsclerk.com/Additional-Services/Official-Records), etc) so devs, BI guys, and data scienctists can do their magic! <br/>
-The ultimate goal is to **improve** and/or **automate** most of these proccesses:<br/>
+The basic idea develope a data source containg layered collections of Geographic Information [(GIS)](https://github.com/sshuair/awesome-gis) data with other public records (i.e. [county appraiser](https://downloads.hcpafl.org) , or [clerk of court](https://www.hillsclerk.com/Additional-Services/Official-Records), etc) so that devs, BI guys, and data scienctists can do their magic! <br/>
+All contributers must work to **improve** and/or **automate** most of these proccesses:<br/>
 
-- Gathering source data 📝 
-- Mapping data elements from source 🗺️ 
-- Buiding flexible code for reusability ♻️ 
-- Incorporating Test (automated?) scripts at key steps 🔍
+- Gather source data 📝 
+- Map data elements from source 🗺️ 
+- Buid flexible code for reusability ♻️ 
+- Incorporate Test (automated?) scripts at key steps 🔍
 - Develop with End User in mind 🤷‍♂️
 - Ask questions and collaborate 🧑‍🤝‍🧑
 
