@@ -4,7 +4,7 @@
 The Property Data Analytics Platform (pDAP) is a currated data repo for property info/metrics from multiple data sources. <br/>
 
 <h3> What's the "Big Idea"? </h3>
-The "Idea" is to layer collections of Geographic Information (GIS) data with other public records (i.e. [county appraiser](https://downloads.hcpafl.org/), [clerk of court](https://www.hillsclerk.com/Additional-Services/Official-Records/), etc) so devs, BI guys, and data scienctists can do their magic! <br/>
+The "Idea" is to layer collections of Geographic Information (GIS) data with other public records (i.e. [county appraiser](https://downloads.hcpafl.org), [clerk of court](https://www.hillsclerk.com/Additional-Services/Official-Records), etc) so devs, BI guys, and data scienctists can do their magic! <br/>
 The ultimate goal is to enhance and/or (semi~)automate the proccess of:<br/>
 <p>
   <list>
