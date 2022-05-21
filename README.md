@@ -16,5 +16,5 @@ The ultimate goal is to **improve** and/or **automate** most of these proccesses
 
 
 <h3> But Why, tho? </h3>
-Purchasing a home, for most people, is the single largest financial decision of their life. Sadly, real estate "buyers" make these decisions based only on the **LIMITED** data exposed to them from simple search filters or after an open house. And even for "buyers" who want to do **thorough** research, the data points they want are often isolated and require experience with APIs, Databases, Webs Scraping, or ETL/ELT to extract it.</br>
+Purchasing a home, for most people, is the single largest financial decision of their life. Sadly, real estate "buyers" make their decisions based only on the **LIMITED** data exposed to them from simple search filters or after an open house. And even for "buyers" who want to do **thorough** research, the data points they want are often isolated and require experience with APIs, Databases, Webs Scraping, or ETL/ELT to extract it.</br>
 However, I believe truely suffecient data should be easyily accessible and curated into one platform for all "buyers" in order to make a more informed purchasing decision.
