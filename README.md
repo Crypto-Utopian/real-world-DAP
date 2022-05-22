@@ -22,12 +22,12 @@ However, I believe truely suffecient data should be easyily accessible and curat
 
 
 <h2> Who can Contribute and How </h2>
- There are many types of "contributers" needed for this project, including those with experience as:
-  - **Home Buyers** ➡️ these will be the users of the platform who will help guide our requirments & provide feedback loops
-  - **Bloggers** ➡️ aka messenger birds - discuss our project vision and attracting more contributers
-  - **Architects** ➡️ build and maintain hardware/cloud architecture for development
-  - **Data Engineers/Developers** ➡️ create scipts, databases, pipelines, etc... per discussions/user feedback
-  - **Data Scientists** ➡️ analyze, process, and model data within the datamart & much more
-  - **Consultants** ➡️ data conultants can be helpful for discussing best practices, improvements, and general advice
-  - **Others** ➡️ really anyone who has interest, input, or feedback is welcome to join project discussions
+There are many types of "contributers" needed for this project, including those with experience as:
+- **Home Buyers** ➡️ these will be the users of the platform who will help guide our requirments & provide feedback loops
+- **Bloggers** ➡️ aka messenger birds - discuss our project vision and attracting more contributers
+- **Architects** ➡️ build and maintain hardware/cloud architecture for development
+- **Data Engineers/Developers** ➡️ create scipts, databases, pipelines, etc... per discussions/user feedback
+- **Data Scientists** ➡️ analyze, process, and model data within the datamart & much more
+- **Consultants** ➡️ data conultants can be helpful for discussing best practices, improvements, and general advice
+- **Others** ➡️ really anyone who has interest, input, or feedback is welcome to join project discussions
  
