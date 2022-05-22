@@ -2,7 +2,7 @@
 
 
 <h2> Overview </h2>
-The **RealWorld Data Analytics Platform (rDAP)** is a general framework of proccesses that delivers advanced real estate data to the core data mart which combines/overlaps GIS sources, government agencies, Realestate websites, and public records. 
+The **RealWorld Data Analytics Platform (rDAP)** is a data services framework using modern application development practices to deliver advanced real estate data to a core data mart which combines/overlaps GIS sources, government agencies, Realestate websites, and public records. 
 
 <h2> What's the "Big Idea"? </h2>
 The "BIG" idea is to develop a data source containg layered collections of Geographic Information [(GIS)](https://github.com/sshuair/awesome-gis) data with other public records (i.e. [county appraiser](https://downloads.hcpafl.org) , or [clerk of court](https://www.hillsclerk.com/Additional-Services/Official-Records), etc) so that devs, BI guys, and data scienctists can do their magic! <br/>
