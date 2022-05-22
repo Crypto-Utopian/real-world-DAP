@@ -6,14 +6,7 @@ Perhaps you're confused as to where to start, or you believe your coding skills 
 
 Here are some ways you can contribute to the Real World DAP project:
 
-- Spread the word! Blog, post, and chat about the project to attract people -- our group of contributers should be well rounded:
-  - **Home Buyers** ➡️ these will be the users of the platform who will help guide our requirments & provide feedback loops
-  - **Bloggers** ➡️ aka messenger birds - discuss our project vision and attracting more contributers
-  - **Architects** ➡️ build and maintain hardware/cloud architecture for development
-  - **Data Engineers/Developers** ➡️ create scipts, databases, pipelines, etc... per discussions/user feedback
-  - **Data Scientists** ➡️ analyze, process, and model data within the datamart & much more
-  - **Consultants** ➡️ data conultants can be helpful for discussing best practices, improvements, and general advice
-  - **Others** ➡️ really anyone who has interest, input, or feedback is welcome to join project discussions
+- Spread the word! Blog, post, and chat about the project to attract people -- our group of contributers should be well rounded
 - Discover new data sources containing parcel data at the county and/or state levels 🤓
 - Add personal research (i.e. links, best practices, ideas) to the discussion board 📚
 - Create documentation (very important! We would be eternally grateful)
