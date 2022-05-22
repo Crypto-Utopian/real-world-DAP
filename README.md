@@ -1,4 +1,4 @@
-<h1> 🌎 Real World Data Analytics Platform (rDAP) </h1>
+<h1> 🌎 RealWorld Data Analytics Platform (rDAP) </h1>
 
 
 <h2> Overview </h2>
