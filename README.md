@@ -27,7 +27,7 @@ There are many types of "contributers" needed for this project, including those 
 - **Home Buyers** ➡️ primary end users of the data who will help guide our requirments & provide feedback loops
 - **Bloggers** ➡️ aka messenger birds - discuss our project vision thus attracting more users/contributers
 - **Architects** ➡️ advise, build, and/or maintain architecture for developers (also create archetecture documents)
-- **Data Engineers/Developers** ➡️ create scipts, databases, pipelines, create docs including: data flow diagrams, erds, source data dictionaries, etc
+- **Data Engineers/Developers** ➡️ create scipts, databases, pipelines, tech docs including: data flow diagrams, erds, source data dictionaries, etc
 - **Data Scientists** ➡️ analyze, process, and model data within the datamart & much more
 - **Consultants** ➡️ data conultants can be helpful for discussing best practices, improvements, and general advice
 - **Others** ➡️ really anyone who has interest, input, or feedback is welcome to join project discussions
