@@ -4,7 +4,7 @@ So, you're interested in contributing to Real World DAP project? 🤔
 
 Perhaps you're confused as to where to start, or you believe your coding skills aren't "good enough"? Don't worry if you are here then you have what it takes to contribute.
 
-Here are some ways you can contribute to Real World DAP:
+Here are some ways you can contribute to the Real World DAP project:
 
 - Spread the word! Blog, post, chat about the project to gather contributers should be well rounded:
   - **Home Buyers** ➡️ these will be the users of the platform who will help guide our requirments & provide feedback loops
