@@ -22,7 +22,6 @@ However, I believe truely suffecient data should be easyily accessible and curat
 
 
 <h2> Who can Contribute and How </h2>
-<p>
  There are many types of "contributers" needed for this project, including those with experience as:
   - **Home Buyers** ➡️ these will be the users of the platform who will help guide our requirments & provide feedback loops
   - **Bloggers** ➡️ aka messenger birds - discuss our project vision and attracting more contributers
@@ -31,7 +30,4 @@ However, I believe truely suffecient data should be easyily accessible and curat
   - **Data Scientists** ➡️ analyze, process, and model data within the datamart & much more
   - **Consultants** ➡️ data conultants can be helpful for discussing best practices, improvements, and general advice
   - **Others** ➡️ really anyone who has interest, input, or feedback is welcome to join project discussions
-</p>
-
-**NOTE:** <br/>
-**This is a tool to empower struggling "buyers" at a time when the housing market, inflation, economy, and XYZ are very bad.** <br/>
+ 
