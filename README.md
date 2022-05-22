@@ -23,4 +23,4 @@ However, I believe truely suffecient data should be easyily accessible and curat
 **NOTE:</br>
 This is a tool to empower struggling "buyers" at a time when the housing market, inflation, economy, and XYZ are vey bad.</br>
 As a result, there is an entire generation struggling and need help in making MORE INFORMED decesions.
-
+**
