@@ -1,10 +1,11 @@
-# property-DAP
+# real-world-DAP
+
 
 <h3> Overview </h3>
-The Property Data Analytics Platform (pDAP) repo contains a framework to build & maintain an advanced Real Estate data mart comprised of data ingested from GIS sources, government agencies, Realestate websites, and public records.
+The **REALWOLRLD Data Analytics Platform (rDAP)** repo contains a framework to build & maintain an advanced Real Estate data mart comprised of data ingested from GIS sources, government agencies, Realestate websites, and public records.
 
 <h3> What's the "Big Idea"? </h3>
-The basic idea develope a data source containg layered collections of Geographic Information [(GIS)](https://github.com/sshuair/awesome-gis) data with other public records (i.e. [county appraiser](https://downloads.hcpafl.org) , or [clerk of court](https://www.hillsclerk.com/Additional-Services/Official-Records), etc) so that devs, BI guys, and data scienctists can do their magic! <br/>
+The "BIG" idea to develop a data source containg layered collections of Geographic Information [(GIS)](https://github.com/sshuair/awesome-gis) data with other public records (i.e. [county appraiser](https://downloads.hcpafl.org) , or [clerk of court](https://www.hillsclerk.com/Additional-Services/Official-Records), etc) so that devs, BI guys, and data scienctists can do their magic! <br/>
 All contributers must work to **improve** and/or **automate** most of these proccesses:<br/>
 
 - Gather source data 📝 
