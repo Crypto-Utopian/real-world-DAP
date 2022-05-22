@@ -23,10 +23,10 @@ Purchasing a home, for most people, is the single largest financial decision of 
 <h2> Who can Contribute and How </h2>
 There are many types of "contributers" needed for this project, including those with experience as:<br/>
 
-- **Home Buyers** ➡️ these will be the users of the platform who will help guide our requirments & provide feedback loops
-- **Bloggers** ➡️ aka messenger birds - discuss our project vision and attracting more contributers
-- **Architects** ➡️ build and maintain hardware/cloud architecture for development
-- **Data Engineers/Developers** ➡️ create scipts, databases, pipelines, etc... per discussions/user feedback
+- **Home Buyers** ➡️ primary end users of the data who will help guide our requirments & provide feedback loops
+- **Bloggers** ➡️ aka messenger birds - discuss our project vision thus attracting more users/contributers
+- **Architects** ➡️ advise, build, and/or maintain architecture for developers (also create archetecture documents)
+- **Data Engineers/Developers** ➡️ create scipts, databases, pipelines, create docs including: data flow diagrams, erds, source data dictionaries, etc
 - **Data Scientists** ➡️ analyze, process, and model data within the datamart & much more
 - **Consultants** ➡️ data conultants can be helpful for discussing best practices, improvements, and general advice
 - **Others** ➡️ really anyone who has interest, input, or feedback is welcome to join project discussions
