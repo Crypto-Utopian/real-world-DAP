@@ -21,7 +21,8 @@ Purchasing a home, for most people, is the single largest financial decision of 
 
 
 <h2> Who can Contribute and How </h2>
-There are many types of "contributers" needed for this project, including those with experience as:
+There are many types of "contributers" needed for this project, including those with experience as:<br/>
+
 - **Home Buyers** ➡️ these will be the users of the platform who will help guide our requirments & provide feedback loops
 - **Bloggers** ➡️ aka messenger birds - discuss our project vision and attracting more contributers
 - **Architects** ➡️ build and maintain hardware/cloud architecture for development
