@@ -2,7 +2,7 @@ Howdy!
 
 So, you're interested in contributing to Real World DAP project? 🤔
 
-Perhaps you're confused as to where to start, or you believe your coding skills aren't "good enough"?
+Perhaps you're confused as to where to start, or you believe your coding skills aren't "good enough"? Don't worry if you are here then you have what it takes to contribute.
 
 Here are some ways you can contribute to Real World DAP:
 
